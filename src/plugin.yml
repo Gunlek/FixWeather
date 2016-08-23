@@ -1,0 +1,5 @@
+author: Gunlek
+version: 1.0
+name: FixWeather
+website: http://simple-duino.com
+main: com.simpleduino.FixWeather.FixWeather
